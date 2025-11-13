@@ -1,4 +1,3 @@
-# data_analytics_fa
 # 🍷 Red Wine Quality Analysis & Feature Engineering  
 **Jupyter Notebook:** [`winequality-red-proj.ipynb`](winequality-red-proj.ipynb)
 
